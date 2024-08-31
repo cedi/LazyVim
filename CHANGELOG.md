@@ -1,5 +1,20 @@
 # Changelog
 
+## [12.39.0](https://github.com/LazyVim/LazyVim/compare/v12.38.2...v12.39.0) (2024-08-31)
+
+
+### Features
+
+* **lazygit:** allow user to override LazyVim config with custom file ([#4367](https://github.com/LazyVim/LazyVim/issues/4367)) ([41a8f3a](https://github.com/LazyVim/LazyVim/commit/41a8f3a5fb2bb84036f33764d77049cafb0adedf))
+* **persistence:** added leader-qS to select a session ([5a0122b](https://github.com/LazyVim/LazyVim/commit/5a0122b61977b5b2c392b64eb615025f49f2aef7))
+
+
+### Bug Fixes
+
+* **markdown-preview:** unknown function `mkdp#util#install` ([#4196](https://github.com/LazyVim/LazyVim/issues/4196)) ([b892861](https://github.com/LazyVim/LazyVim/commit/b892861bdee888f83401e745bda1798dc01e2c54))
+* **toggle:** diagnostics enable/disable. See [#4205](https://github.com/LazyVim/LazyVim/issues/4205) ([3dbace9](https://github.com/LazyVim/LazyVim/commit/3dbace941ee935c89c73fd774267043d12f57fe2))
+* **toggle:** make `diagnostics` compatible with nvim-0.9.5 ([#4205](https://github.com/LazyVim/LazyVim/issues/4205)) ([c012f85](https://github.com/LazyVim/LazyVim/commit/c012f859597c4ba3e54dd26372351098a25379cd))
+
 ## [12.38.2](https://github.com/LazyVim/LazyVim/compare/v12.38.1...v12.38.2) (2024-07-25)
 
 
